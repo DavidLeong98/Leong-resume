@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "David Leong Kok Wai",
+    "occupation": "DevOps Engineer",
+    "description": "i'm passion in learning on devops skill in solving problem in software infrastructure.",
+    "image": "profilepic.jpg",
+    "bio": "Junior DevOps Engineer with background designing, testing and implementing infrastructure and applications in 1 years experience.",
+    "contactmessage": "Feel free to contact me through Whatsapp and Email. (testing environment below function not work)",
+    "email": "davidleong98@gmail.com",
+    "phone": "+60 17 9409178",
+    "address": {
+      "street": "Jln Kebun Sultan",
+      "city": "Kota Bharu",
+      "state": "Kelantan",
+      "zip": "15300"
+    },
+    "website": "-",
+    "resumedownload": "-",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "-",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DavidLeong98",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "ASIA PACIFIC UNIVERSITY OF TECHNOLOGY AND INNOVATION (APU /APIIT)",
+        "degree": "Bachelor of Science Computer Software Engineering",
+        "graduated": "January 2021",
+        "description": "Graduate in First Class Honours awarded with dual degree in Staffordshire University, United Kingdom."
+      },
+      {
+        "school": "SMJK Chung Hwa, Kota Bharu",
+        "degree": "Sijil Pelajaran Malaysia",
+        "graduated": "2016",
+        "description": "High school graduated with SPM 4A 4B 2C "
+      }
+    ],
+    "work": [
+      {
+        "company": "MyezyIt Sdn Bhd (Pivot Fintech) ",
+        "title": "DevOps Engineer ",
+        "years": "Feb 2021 - Present",
+        "description": "Technical Skill : JavaScript(React) / Java / MySQL / Docker / Jenkins / CentOS / AWS / Experience on setup the new environment server and infrastructure for new client / Monitored automated build and continuous software integration process to drive build/release failure resolution. / Testing and examining code written by others and analyzing results"
+      },
+      {
+        "company": "Integro Technologies Sdn Bhd",
+        "title": "Software Engineer Intern",
+        "years": "Oct 2019 - February 2020",
+        "description": "Technical Skill : Java / Javascript / Microsoft SQL /Experience in Software development and Debugging "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "70%"
+      },
+      {
+        "name": "Linux",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "AWS",
+        "level": "30%"
+      },
+      {
+        "name": "CI/CD (Jenkins)",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "C# (.NET)",
+        "level": "80%"
+      },
+      {
+        "name": "promotheus",
+        "level": "30%"
+      },
+      {
+        "name": "Ansible ",
+        "level": "30%"
+      }
+    ]
+  }
+}
